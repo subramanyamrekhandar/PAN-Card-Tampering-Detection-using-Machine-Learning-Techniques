@@ -1,0 +1,5 @@
+streamlit
+scikit-image
+imutils
+opencv-python-headless
+Pillow

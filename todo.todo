@@ -1,0 +1,13 @@
+Create A Conda Environment and cofigures to activate the Environment ( Anaconda Navigator)
+--> conda create -n yolo_envTensorflow python=3.9
+--> conda activate yolo_envTensorflow
+
+
+installing Libraries
+--> pip install -r requirements.txt
+
+
+
+
+Run App
+streamlit run app.py 
